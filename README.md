@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janson-gan
 - 👀 I’m interested in developing web application
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React Native with TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
